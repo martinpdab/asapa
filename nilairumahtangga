@@ -26,9 +26,16 @@ n1 + n2 = 106
 n2 = 13
 n1 = 93
 
-Lembaga pendidikan kilat:
+lembaga pendidikan kilat:
 (1 x n1) + (2 x n2) = 13
 n1 + n2 = 9
 
 n2 = 4
 n1 = 5
+
+fasilitas umum:
+(1 x n1) + (2 x n2) = 793
+n1 + n2 = 668
+
+n2 = 125
+n1 = 543
