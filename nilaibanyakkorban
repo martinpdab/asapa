@@ -46,3 +46,55 @@ n1 + n2 = 1297
 
 n2 = 80
 n1 = 1217
+
+
+
+JENIS KEKERASAN, dan BANYAKNYA
+
+rumah tangga = 3070
+fisik = 921
+seksual = 921
+psikis = 921
+penelantaran = 123
+lainnya = 154
+eksploitasi = 15
+traficking = 15
+
+tempat kerja = 69
+fisik = 9 
+seksual = 30 
+psikis = 24  
+lainnya = 2
+eksploitasi = 4
+
+sekolah = 115
+fisik = 46 
+seksual = 40 
+psikis = 29
+
+fasil umum = 668
+fisik = 167
+seksual = 154 
+psikis = 134 
+penelantaran = 67 
+lainnya = 134
+eksploitasi = 12
+
+lainnya = 1297
+fisik = 208
+seksual = 272
+psikis = 207
+penelantaran = 259
+lainnya = 260
+eksploitasi = 13
+traficking = 78 
+
+SISA
+fisik = 605
+psikis = 351
+seksual = 733
+eksploitasi = 7
+traficking = 16
+penelantaran = 58
+lainnya = 52
+
