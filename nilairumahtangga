@@ -1,0 +1,13 @@
+0-3069 rumah tangga
+3070-3138 tempat kerja
+3139-3253 sekolah
+3254-3921 fasil umum
+3922-5218 lainnya
+
+(1 x n1) + (2 x n2) + (3 x n3) = 3289
+
+n1 + n2 + n3 = 3070
+
+n3 = 30
+n2 = 159
+n1 = 2881
