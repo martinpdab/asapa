@@ -1,1 +1,1 @@
-Model yang sudah diubah ke tendorflowjs
+Model yang sudah diubah ke tensorflowjs
